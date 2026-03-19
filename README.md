@@ -1,5 +1,38 @@
 # Teste01
 Calculadora de Energia 
+
+obre o Projeito.
+
+⚡ Este sistema foi desenvolvido para auxiliar no controle doméstico de gastos elétricos.
+O objetivo é permitir que qualquer usuário descubra o impacto financeiro de seus aparelhos
+de forma rápida e visual, transformando um script de terminal em um aplicativo executável para Windows.
+
+
+
+🛠️ Linguagem: Python 3.14.3.
+
+Interface Gráfica: Tkinter (biblioteca nativa para janelas).
+
+Compilação: PyInstaller (para gerar o arquivo .exe).
+
+
+🧮 Fórmula de Cálculo:
+O sistema utiliza a fórmula padrão de conversão de Watts para Quilowatt-hora (kWh) mensal, considerando um ciclo de 30 dias
+
+
+Consumo Mensal (kWh) = Potência (W) x Horas de Uso Diário x 30 Dias
+                       _____________________________________________
+
+                                       1000
+
+
+🚀 Como Executar o Programa:
+Baixe o arquivo Teste01.exe através do link compartilhado:
+LINK: https://drive.google.com/file/d/1gOViIgk17g8Dk0mLhHR-Va-2F13ZrfNT/view?usp=sharing
+
+
+
+
 import tkinter as tk
 from tkinter import messagebox
 
