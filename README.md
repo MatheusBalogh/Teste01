@@ -1,7 +1,7 @@
 # Teste01
 Calculadora de Energia 
 
-obre o Projeito.
+Sobre o Projeito.
 
 ⚡ Este sistema foi desenvolvido para auxiliar no controle doméstico de gastos elétricos.
 O objetivo é permitir que qualquer usuário descubra o impacto financeiro de seus aparelhos
